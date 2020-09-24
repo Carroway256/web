@@ -1,0 +1,9 @@
+{
+    "manifest_version":2,
+    "name": "foodtracker",
+    "version" : "0.2",
+    "browser_action":{
+        "default_popup":"popup.html"
+    }
+
+}
